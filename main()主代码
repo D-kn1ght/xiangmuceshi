@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+#define ceshi "这是一个测试"
+
+int main()
+{
+printf(ceshi);
+}
